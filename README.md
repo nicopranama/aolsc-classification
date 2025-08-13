@@ -17,6 +17,14 @@ This project contains a Jupyter Notebook for data analysis, classification, and 
 - matplotlib
 - scikit-learn
 
-Install dependencies:
-```bash
-pip install -r requirements.txt
+## How to Run
+1. Clone the repository
+git clone https://github.com/USERNAME/aolsc-classification.git
+cd aolsc-classification
+
+2. Open the notebook
+jupyter notebook SupplyChainModel.ipynb
+
+
+
+
