@@ -25,6 +25,10 @@ This project contains a Jupyter Notebook for data analysis, classification, and 
 2. Open the notebook
 - jupyter notebook SupplyChainModel.ipynb
 
+## Results
+- Includes accuracy metrics, confusion matrix, and visualizations.
+- Model performance discussed inside the notebook.
+
 
 
 
