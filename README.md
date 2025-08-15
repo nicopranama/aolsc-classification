@@ -1,6 +1,6 @@
 # AOLSC Classification
 
-This project contains a Jupyter Notebook for data analysis, classification, and optimization using the AOLSC dataset.
+This project contains a Jupyter Notebook for data analysis, classification, and optimization using the.
 
 ## Project Structure
 - `SupplyChainModel.ipynb` — Main notebook containing:
